@@ -35,7 +35,7 @@
 
 - You will present on Friday afternoon
   - for 5 minutes
-  - to the studio's executives: Irmak and Brian
+  - to the studio's executives: Brian and Mark
   - Presentation can be
     - describing insights learned from the data
     - showing a tool (for example, a model, or a python program) 
